@@ -1,21 +1,33 @@
 # Project Marvlock
 
-> **Open-source tools that feel light, run fast, and respect your space.**
+**Shaping the future of open source** by creating tools that are powerful, accessible, and innovative.
+
+> **What We Do**  
+> We build tools, libraries, and platforms that simplify developer workflows, promote learning, and empower anyone to contribute developers, tinkerers, and curious minds alike.
 
 ---
 
-**Project Marvlock** is a developer-first, privacy-focused open-source collective.  
-We build tools for students, indie hackers, and curious minds — lightweight, self-hostable, and forever free.
+### Core Values
 
-We believe:
-- Small ideas can spark big change.
-- Tools should be elegant, not overwhelming.
-- Code should be a place of learning, not friction.
-- Everyone deserves to build, share, and learn without surveillance or gatekeeping.
+- **Innovation through collaboration**  
+- **Accessibility for all**  
+- **Build in public**  
+- **Developer-first approach**
 
-Whether you're:
-- A student learning to contribute  
-- A dev tired of bloated alternatives  
-- A privacy-conscious builder  
+---
 
-**You're welcome here.**
+### Our Mission
+
+Started by two student devs who believed open source could be cooler and decided to prove it. Since 2025, we've grown from one repo and a handful of contributors into a global, community-powered collective, building projects we genuinely wanted to use.
+
+---
+
+### Who We Serve
+
+Whether you’re:
+
+- A student just getting started  
+- A power user seeking lightweight tools  
+- A curious mind with something to contribute  
+
+...you belong here.
