@@ -1,33 +1,73 @@
-# Project Marvlock
+# PROJECT MARVLOCK
 
-**Shaping the future of open source** by creating tools that are powerful, accessible, and innovative.
+**Building modern products for forward-thinking brands.**
 
-> **What We Do**  
-> We build tools, libraries, and platforms that simplify developer workflows, promote learning, and empower anyone to contribute developers, tinkerers, and curious minds alike.
-
----
-
-### Core Values
-
-- **Innovation through collaboration**  
-- **Accessibility for all**  
-- **Build in public**  
-- **Developer-first approach**
+A freelance studio crafting websites, apps, and systems engineered with precision.
 
 ---
 
-### Our Mission
+## What We Do
 
-Started by two student devs who believed open source could be cooler and decided to prove it. Since 2025, we've grown from one repo and a handful of contributors into a global, community-powered collective, building projects we genuinely wanted to use.
+We help brands and founders bring their digital ideas to life through good design that speaks clarity, clean code that performs flawlessly, and a process that just works.
+
+Our expertise spans:
+- Crafting intuitive interfaces
+- Building scalable systems
+- Creating dashboards that turn data into decisions
+- Delivering digital products engineered with precision
 
 ---
 
-### Who We Serve
+## Our Approach
 
-Whether you’re:
+**Crafted with clarity. Built with intent.**
 
-- A student just getting started  
-- A power user seeking lightweight tools  
-- A curious mind with something to contribute  
+We're developers and designers who think in systems, not pixels. Our work blends precision engineering with thoughtful design, ensuring every product we build is both beautiful and functional.
 
-...you belong here.
+---
+
+## Featured Projects
+
+### [Schedulo](https://schedulo.marvlock.dev)
+A modern web application that streamlines meeting scheduling and email communication in one unified workflow.
+
+**Tech Stack:** Next.js | React 19 | TypeScript | Tailwind CSS | NextAuth.js | Google APIs
+
+*Explore more of our work on our [website](https://www.marvlock.dev).*
+
+---
+
+## Philosophy
+
+- **Innovation through collaboration** — We believe the best products emerge from shared vision
+- **Precision engineering** — Every line of code serves a purpose
+- **Design with intent** — Beauty and function are inseparable
+- **Developer-first thinking** — Building tools we'd want to use ourselves
+
+---
+
+## Work With Us
+
+Building something exceptional? We'd love to hear about your product and turn it into reality.
+
+**Get in touch:**
+- Email: [marvlock.dev@gmail.com](mailto:marvlock.dev@gmail.com)
+- Website: [marvlock.dev](https://www.marvlock.dev)
+- Twitter: [@ProjectMarvlock](https://x.com/ProjectMarvlock)
+- LinkedIn: [Project Marvlock](https://www.linkedin.com/company/project-marvlock)
+
+---
+
+## Explore Our Repositories
+
+Check out our open source contributions and projects below. Whether you're looking to use our tools, learn from our code, or contribute to our work, you're in the right place.
+
+---
+
+<div align="center">
+
+**Let's build something exceptional.**
+
+*© 2025 Project Marvlock. All rights reserved.*
+
+</div>
