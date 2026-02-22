@@ -26,17 +26,6 @@ We're developers and designers who think in systems, not pixels. Our work blends
 
 ---
 
-## Featured Projects
-
-### [Schedulo](https://schedulo.marvlock.dev)
-A modern web application that streamlines meeting scheduling and email communication in one unified workflow.
-
-**Tech Stack:** Next.js | React 19 | TypeScript | Tailwind CSS | NextAuth.js | Google APIs
-
-*Explore more of our work on our [website](https://www.marvlock.dev).*
-
----
-
 ## Philosophy
 
 - **Innovation through collaboration** — We believe the best products emerge from shared vision
