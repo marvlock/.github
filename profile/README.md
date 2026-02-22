@@ -57,6 +57,6 @@ Check out our open source contributions and projects below. Whether you're looki
 
 **Let's build something exceptional.**
 
-*© 2025 Project Marvlock. All rights reserved.*
+*© 2026 Project Marvlock. All rights reserved.*
 
 </div>
