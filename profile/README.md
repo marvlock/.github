@@ -1,4 +1,4 @@
-# PROJECT MARVLOCK
+# MARVLOCK
 
 **Building modern products for forward-thinking brands.**
 
